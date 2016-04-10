@@ -1,0 +1,1 @@
+ALTER TABLE `proxies` ADD `do_not_delete` INT( 1 ) NOT NULL ;
